@@ -1,4 +1,4 @@
-interested in ml for molecular biology
+interested in ml for biology and health.
 
 <!--
 **eddykang06/eddykang06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
