@@ -1,4 +1,4 @@
-interested in ml for biology and health.
+interested in ml and generative modeling for biology.
 
 <!--
 **eddykang06/eddykang06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
