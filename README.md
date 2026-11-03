@@ -1,4 +1,4 @@
-i like ml, and i really like diffusion!
+i like ml and diffusion
 
 <!--
 **eddykang06/eddykang06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
